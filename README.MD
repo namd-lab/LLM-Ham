@@ -1,4 +1,4 @@
-# LLM-Ham code.
+# LLM-Ham code
 This codebase includes train of the energy, energy gap, and nac.
 
 # Install the necessary dependency libraries
